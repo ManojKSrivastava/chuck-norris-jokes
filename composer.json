@@ -1,0 +1,24 @@
+{
+    "name": "manojksrivastava/chuck-norris-jokes",
+    "description": "Create random Chuck Norris jokes",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Manoj K Srivastava",
+            "email": "manoj.srivastava@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4":{"Manojksrivastava\\ChuckNorrisJokes\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4":{"Manojksrivastava\\ChuckNorrisJokes\\Tests\\": "tests"
+        }
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
