@@ -1,5 +1,5 @@
 <?php
-namespace Manojksrivastava\ChuckNorrisJokes;
+namespace Manojksrivastava\ChuckNorrisJokes\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
