@@ -1,7 +1,7 @@
 <?php
 namespace Manojksrivastava\ChuckNorrisJokes;
 
-use Carbon\Laravel\ServiceProvider;
+use Illuminate\Support\ServiceProvider;
 
 class ChuckNorrisJokesServiceProvider extends ServiceProvider
 {
